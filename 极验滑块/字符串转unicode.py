@@ -11,4 +11,4 @@ def fuckEncode(str1):
             res += '\\u00' + res1[2:]
     return res
 
-print(fuckEncode("O"))
+print(fuckEncode("userresponse"))
